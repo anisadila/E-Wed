@@ -4,4 +4,38 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="transfer">Transfer ke rekening BRI 034012345678910 dan mohon sertakan No. Invoice</string>
+
+    <!--FAQ-->
+    <string name="faq_questions_ewed">Apa itu e-wed?</string>
+    <string name="faq_questions_vendor">Apa itu vendor?</string>
+    <string name="faq_answer_ewed">Melalui e-wed kami ingin setiap pembeli dapat merasakan kemudahan dalam mencari kebutuhan pernikahan. Keunikan dari e-wed adalah setiap pembeli dapat dengan bebas untuk mencari kebutuhan pernikahan sesuai dengan yang diinginkan.</string>
+    <string name="faq_answer_vendor">Vendor adalah user yang berlaku sebagai penjual atau penyedia jasa.</string>
+    
+    <string name="term_questions_infoumum">Informasi Umum</string>
+    <string name="term_questions_pengguna">Pengguna</string>
+    <string name="term_questions_vendor">Vendor</string>
+    <string name="term_questions_pembatasan">Pembatasan Tanggung Jawab</string>
+    <string name="term_answer_infoumum">
+        - E-wed sarana penunjang bisnis yang menyediakan layanan untuk menjamin keamanan dan kenyamanan pengguna.\n\n
+        - E-wed berperan sebagai perantara antara pembeli dan penjual.\n\n
+        - E-wed tidak bertanggung jawab atas segala bentuk perselisihan yang terjadi antar pengguna.\n\n
+        - E-wed berwenang memberikan sanksi akun yang melangggar aturan penggunaan di e-wed.\n\n
+        - Kerugian yang diakibatkan keterlibatan pihak lain di luar pembeli, vendor, dan e-wed, tidak menjadi tanggung jawab e-wed.\n
+    </string>
+    <string name="term_answer_pengguna">
+        - Pengguna wajib mengisi data pribadi secara lengkap dan jujur di halaman profil.\n\n
+        - Pengguna bertanggung jawab atas keamanan dari akun termasuk penggunaan email dan password.\n\n
+        - Pengguna wajib mengisi No. rekening bank untuk kepentingan bertransaksi di e-wed.
+    </string>
+    <string name="term_answer_vendor">
+        - Vendor wajib menempatkan produk dagangan sesuai dengan kategori.\n\n
+        - Vendor wajib mengisi nama atau judul produk dengan jelas, singkat dan padat.\n\n
+        - Vendor wajib memperbarui (update) ketersediaan dan status produk yang diperlihatkan dan wajib mengisi kolom deskripsi produk dengan benar.
+    </string>
+    <string name="term_answer_pembatasan">
+        - E-wed tidak bertanggug jawab atas resiko dan kerugian yang timbul karena penulisan informasi yang tidak valid.\n\n
+        - E-wed tidak bertanggung jawab atas segala risiko dan kerugian yang timbul akibat kesalahan atau perbedaan nominal yang seharusnya ditransfer.\n\n
+        - E-wed tidak bertanggung jawab atas segala risiko dan kerugian yang timbul akibat kesalahan Pengguna ataupun pihak lain dalam transfer dana ke rekening e-wed.
+    </string>
+
 </resources>

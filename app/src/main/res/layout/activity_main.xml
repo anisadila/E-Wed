@@ -25,7 +25,7 @@
         android:layout_alignParentBottom="true"
         app:menu="@menu/nav_customer"
         android:background="?android:attr/windowBackground"
-        app:itemTextColor="@color/colorBackground">
+        app:itemTextColor="@color/colorPrimary">
 
     </android.support.design.widget.BottomNavigationView>
 

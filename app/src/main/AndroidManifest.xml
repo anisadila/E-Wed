@@ -17,14 +17,20 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
-            android:theme="@style/noBar" />
+            android:name=".MainActivity" />
+            <!--android:theme="@style/noBar" />-->
         <activity android:name=".DetailProduk" />
         <activity android:name=".ListProduk" />
         <activity android:name=".OrderForm" />
         <activity android:name=".CheckOrderForm" />
         <activity android:name=".CartOrderForm" />
         <activity android:name=".PaymentConfirmation" />
+        <activity android:name=".FAQ"
+            android:parentActivityName=".FAQ"/>
+        <activity android:name=".TermsConditions"
+            android:parentActivityName=".TermsConditions"/>
+        <activity android:name=".About"
+            android:parentActivityName=".About"/>
     </application>
 
 </manifest>
