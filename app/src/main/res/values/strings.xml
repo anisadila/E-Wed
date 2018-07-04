@@ -5,12 +5,20 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="transfer">Transfer ke rekening BRI 034012345678910 dan mohon sertakan No. Invoice</string>
 
+    <!--login-->
+    <string name="google">Sign in with Google Account</string>
+    <string name="phone">Sign in with Phone Number</string>
+
+    <!--about-->
+    <string name="tagline">Your Wedding Dream</string>
+    <string name="desc_about">Melalui e-wed kami ingin setiap pembeli merasakan kemudahan dalam mencari kebutuhan pernikahan sesuai dengan keinginan</string>
+
     <!--FAQ-->
     <string name="faq_questions_ewed">Apa itu e-wed?</string>
     <string name="faq_questions_vendor">Apa itu vendor?</string>
     <string name="faq_answer_ewed">Melalui e-wed kami ingin setiap pembeli dapat merasakan kemudahan dalam mencari kebutuhan pernikahan. Keunikan dari e-wed adalah setiap pembeli dapat dengan bebas untuk mencari kebutuhan pernikahan sesuai dengan yang diinginkan.</string>
     <string name="faq_answer_vendor">Vendor adalah user yang berlaku sebagai penjual atau penyedia jasa.</string>
-    
+
     <string name="term_questions_infoumum">Informasi Umum</string>
     <string name="term_questions_pengguna">Pengguna</string>
     <string name="term_questions_vendor">Vendor</string>

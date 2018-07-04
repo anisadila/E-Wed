@@ -7,6 +7,10 @@
     android:orientation="vertical"
     tools:context="com.example.adila.e_wed.ListProduk">
 
+    <!--<include-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--layout="@layout/include_search_filter"/>-->
     <android.support.v7.widget.RecyclerView
         android:id="@+id/rv_listproduk"
         android:layout_width="match_parent"
